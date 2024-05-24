@@ -37,7 +37,7 @@ solar_data_segments.xlsx (sheet: F10.7): Used for training the Gradient Booster 
 
         - Open GetData.py.
         - Replace placeholder credentials with your Space-Track credentials.
-
+          
 
     2. Run the API:
 
